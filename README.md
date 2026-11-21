@@ -1,6 +1,16 @@
 <!-- ☀️ Solar Eclipse & Deep Galaxy Wave Header 🌌 -->
+<!-- 🌌 Custom Dark Space & Planets Header ☀️ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,25:150050,55:4c1d95,82:ea580c,100:facc15&height=230&section=header&text=Prateek%20Jha&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Java%20Backend%20Developer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Microservices%20%E2%80%A2%20Cloud&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="./header.svg" width="100%" alt="Prateek Jha - Java Backend Developer" />
+</div>
+
+<br/>
+
+<!-- 🚀 Animated Space & Tech Typing Banner 🛸 -->
+<div align="center">
+  <a href="https://github.com/prateekjha1111">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=75&lines=Exploring+the+Backend+Galaxy+with+Java+17+and+Spring+Boot;Building+Scalable+Microservices%2C+REST+APIs+and+Redis+Caching;Deploying+Cloud-Native+Systems+on+AWS+EC2%2C+RDS+and+Docker" alt="Cosmic Telemetry Typing SVG" />
+  </a>
 </div>
 
 <!-- ✨ Starfield & Cosmic Telemetry Bar ✨ -->
@@ -177,6 +187,7 @@ I am a **Java Backend Developer** and **Associate Software Engineer at Cognizant
 </div>
 
 <!-- 🌌 Solar Horizon & Deep Space Wave Footer ☀️ -->
+<!-- 🪐 Custom Dark Space Horizon Footer 🚀 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,18:ea580c,45:4c1d95,75:150050,100:030014&height=140&section=footer" width="100%" />
+  <img src="./footer.svg" width="100%" alt="Space Horizon Footer" />
 </div>
