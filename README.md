@@ -6,9 +6,11 @@
 <!-- Animated Neon Cyan Typing Banner -->
 <div align="center">
   <a href="https://github.com/prateekjha1111">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=75&lines=Architecting+Scalable+Java+17+and+Spring+Boot+Backends;Building+RESTful+Microservices%2C+JWT+Security+and+Redis+Caching;Deploying+Containerized+Apps+on+AWS+EC2%2C+RDS+and+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&repeat=true&width=840&height=50&lines=Architecting+Scalable+Java+17+and+Spring+Boot+Backends;Building+RESTful+Microservices%2C+JWT+Security+and+Redis+Caching;Deploying+Containerized+Apps+on+AWS+EC2%2C+RDS+and+Docker" alt="Typing SVG" />
   </a>
 </div>
+
+<br/>
 
 <!-- Social & Profile Badges -->
 <div align="center">
@@ -24,6 +26,7 @@
   <a href="mailto:prateekjha681@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-prateekjha681%40gmail.com-070B14?style=for-the-badge&logo=gmail&logoColor=00F5D4" alt="Gmail" />
   </a>
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=prateekjha1111&label=Profile_Views&color=0d9488&style=for-the-badge" alt="Profile Views" />
 </div>
 
