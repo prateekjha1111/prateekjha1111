@@ -148,7 +148,7 @@ I am a **Java Backend Developer** and **Associate Software Engineer at Cognizant
 ## 📊 GitHub & LeetCode Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prateekjha1111&show_icons=true&include_all_commits=true&count_private=true&bg_color=070b14&title_color=00f5d4&text_color=e2e8f0&icon_color=10b981&border_color=1e293b" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prateekjha1111&show_icons=true&bg_color=070b14&title_color=00f5d4&text_color=e2e8f0&icon_color=10b981&border_color=1e293b" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekjha1111&layout=compact&langs_count=6&bg_color=070b14&title_color=00f5d4&text_color=e2e8f0&border_color=1e293b" alt="Top Languages" />
 </div>
 
