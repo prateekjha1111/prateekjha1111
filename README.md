@@ -9,9 +9,10 @@
 </div>
 
 <!-- 🚀 Animated Space & Tech Typing Banner 🛸 -->
+<!-- 🚀 Animated Space & Tech Typing Banner 🛸 -->
 <div align="center">
   <a href="https://github.com/prateekjha1111">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=75&lines=🌌+Exploring+the+Backend+Galaxy+with+Java+17+and+Spring+Boot+🚀;🛸+Building+Scalable+Microservices%2C+REST+APIs+and+Redis+Caching+✨;☀️+Deploying+Cloud-Native+Systems+on+AWS+EC2%2C+RDS+and+Docker+🪐" alt="Cosmic Telemetry Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=75&lines=Exploring+the+Backend+Galaxy+with+Java+17+and+Spring+Boot;Building+Scalable+Microservices%2C+REST+APIs+and+Redis+Caching;Deploying+Cloud-Native+Systems+on+AWS+EC2%2C+RDS+and+Docker" alt="Cosmic Telemetry Typing SVG" />
   </a>
 </div>
 
