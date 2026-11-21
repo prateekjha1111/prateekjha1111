@@ -1,12 +1,12 @@
 <!-- Animated Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0284c7&height=210&section=header&text=Prateek%20Jha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%26%20Scalable%20REST%20APIs&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0284c7&height=210&section=header&text=Prateek%20Jha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20and%20Scalable%20REST%20APIs&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 </div>
 
 <!-- Animated Typing SVG -->
 <div align="center">
   <a href="https://github.com/prateekjha1111">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=Java+Backend+Developer+Building+Spring+Boot+Applications;Designing+Secure+REST+APIs%2C+SQL%2FNoSQL+Databases+%26+CI%2FCD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=Java+Backend+Developer+Building+Spring+Boot+Applications;Designing+Secure+REST+APIs%2C+SQL%2FNoSQL+Databases+and+CI%2FCD" alt="Typing SVG" />
   </a>
 </div>
 
